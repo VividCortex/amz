@@ -6,7 +6,7 @@
 package s3
 
 import (
-	"gopkg.in/amz.v1/aws"
+	"github.com/VividCortex/amz/aws"
 )
 
 var originalStrategy = attempts

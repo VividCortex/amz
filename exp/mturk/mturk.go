@@ -23,7 +23,7 @@ import (
 	"strconv"
 	"time"
 
-	"gopkg.in/amz.v1/aws"
+	"github.com/VividCortex/amz/aws"
 )
 
 type MTurk struct {

@@ -13,8 +13,8 @@ import (
 
 	. "gopkg.in/check.v1"
 
-	"gopkg.in/amz.v1/aws"
-	"gopkg.in/amz.v1/ec2"
+	"github.com/VividCortex/amz/aws"
+	"github.com/VividCortex/amz/ec2"
 )
 
 // Subnet tests with example responses

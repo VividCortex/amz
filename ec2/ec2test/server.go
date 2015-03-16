@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"gopkg.in/amz.v1/ec2"
+	"github.com/VividCortex/amz/ec2"
 )
 
 var b64 = base64.StdEncoding

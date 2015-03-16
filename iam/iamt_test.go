@@ -8,9 +8,9 @@ package iam_test
 import (
 	. "gopkg.in/check.v1"
 
-	"gopkg.in/amz.v1/aws"
-	"gopkg.in/amz.v1/iam"
-	"gopkg.in/amz.v1/iam/iamtest"
+	"github.com/VividCortex/amz/aws"
+	"github.com/VividCortex/amz/iam"
+	"github.com/VividCortex/amz/iam/iamtest"
 )
 
 // LocalServer represents a local ec2test fake server.
